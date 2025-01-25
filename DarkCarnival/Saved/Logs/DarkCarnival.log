@@ -1354,3 +1354,59 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.01.25-09.59.21:835][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
 [2025.01.25-09.59.33:350][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
 [2025.01.25-10.00.26:038][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.01.25-10.03.05:997][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.01.25-10.03.06:012][339]LogStall: Shutdown...
+[2025.01.25-10.03.06:014][339]LogStall: Shutdown complete.
+[2025.01.25-10.03.06:035][339]LogSlate: Window 'DarkCarnival - Unreal Editor' being destroyed
+[2025.01.25-10.03.06:084][339]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2025.01.25-10.03.06:100][339]Cmd: QUIT_EDITOR
+[2025.01.25-10.03.06:100][340]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.01.25-10.03.06:103][340]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.01.25-10.03.06:103][340]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.01.25-10.03.06:103][340]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.01.25-10.03.06:113][340]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-10.03.06:114][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-10.03.06:114][340]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Test.Test
+[2025.01.25-10.03.06:114][340]LogContentBundle: [Test(Standalone)] Deleting container.
+[2025.01.25-10.03.06:115][340]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.01.25-10.03.06:115][340]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.01.25-10.03.06:120][340]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.01.25-10.03.06:124][340]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-10.03.06:124][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-10.03.06:125][340]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.01.25-10.03.06:125][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.25-10.03.06:245][340]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.01.25-10.03.06:247][340]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.01.25-10.03.06:247][340]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.01.25-10.03.06:247][340]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.01.25-10.03.06:248][340]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.01.25-10.03.06:248][340]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.01.25-10.03.06:248][340]LogAudio: Display: Audio Device unregistered from world 'Test'.
+[2025.01.25-10.03.06:248][340]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.01.25-10.03.06:248][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.25-10.03.06:250][340]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.01.25-10.03.06:256][340]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.01.25-10.03.06:256][340]LogAudio: Display: Audio Device Manager Shutdown
+[2025.01.25-10.03.06:257][340]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.01.25-10.03.06:259][340]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.01.25-10.03.06:260][340]LogExit: Preparing to exit.
+[2025.01.25-10.03.06:281][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.01.25-10.03.07:367][340]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.01.25-10.03.07:380][340]LogExit: Editor shut down
+[2025.01.25-10.03.07:381][340]LogExit: Transaction tracking system shut down
+[2025.01.25-10.03.07:461][340]LogExit: Object subsystem successfully closed.
+[2025.01.25-10.03.07:501][340]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.01.25-10.03.08:054][340]MemoryProfiler: Shutdown
+[2025.01.25-10.03.08:054][340]NetworkingProfiler: Shutdown
+[2025.01.25-10.03.08:054][340]LoadingProfiler: Shutdown
+[2025.01.25-10.03.08:054][340]TimingProfiler: Shutdown
+[2025.01.25-10.03.08:102][340]LogOpenImageDenoise: OIDN shutting down
+[2025.01.25-10.03.08:349][340]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.01.25-10.03.08:351][340]RenderDocPlugin: plugin has been unloaded.
+[2025.01.25-10.03.08:386][340]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.01.25-10.03.08:386][340]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAD7FA5CE-4467-E2D2-7794-A58C64E87BE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=28dad6324955830a18b54489c452b869%7C1e9e5743aee44392ac61a9ac3bdabe96%7C170016a9-e3a9-46f6-92ef-8f4c404141fb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.01.25-10.03.08:424][340]LogXGEController: Cleaning working directory: C:/Users/bryan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.01.25-10.03.08:427][340]LogPakFile: Destroying PakPlatformFile
+[2025.01.25-10.03.08:522][340]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.01.25-10.03.08:552][340]LogExit: Exiting.
+[2025.01.25-10.03.08:576][340]Log file closed, 01/25/25 03:03:08
