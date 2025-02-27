@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
+				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Static_Mesh/Fortune_Tent/SM_Planchette_Sign.uasset",
+				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Blueprints/BP_FollowVoice.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/MasterMaterial.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/DecalMaster.uasset",
@@ -829,8 +832,6 @@
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Maps/_GENERATED/gabri/Cylinder_F2DD7837.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Maps/_GENERATED/gabri/SM_Spline.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/M_Trashbag.uasset",
-				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
-				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Static_Mesh/Fortune_Tent/SM_Planchette_Sign.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Static_Mesh/Props/SM_Barricade2.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Static_Mesh/Props/standardSurface1.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/FoliageMaster.uasset",
