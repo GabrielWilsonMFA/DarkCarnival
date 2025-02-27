@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Red/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
+				"C:/Users/Red/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Audio/Voice/Follow_me_1.uasset",
+				"C:/Users/Red/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Audio/Voice/Find_them_.uasset",
 				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
 				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Static_Mesh/Fortune_Tent/SM_Planchette_Sign.uasset",
 				"E:/2025_Dark Carnival - Circus (Group Project)/DarkCarnival/DarkCarnival/Content/Blueprints/BP_FollowVoice.uasset",
@@ -847,7 +850,6 @@
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/FoliageMaterials/Textures/default-textures/9e14a251_Leaf_Front_02_Diff_3d_srgb_2_2_Tex.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/FoliageMaterials/collections/MPC_wind.uasset",
 				"C:/Users/gabri/OneDrive/Desktop/DarkCarnival/DarkCarnival/Content/Materials/M_Bark1.uasset",
-				"C:/Users/Red/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
 				"C:/Users/XboxL/OneDrive/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Static_Mesh/Props/SM_Mossy_Stones/SM_Mossy_Stones_Stone_01.uasset",
 				"C:/Users/XboxL/OneDrive/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Static_Mesh/Props/SM_Mossy_Stones/SM_Mossy_Stones_Stone_02.uasset",
 				"C:/Users/XboxL/OneDrive/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Static_Mesh/Props/SM_Mossy_Stones/SM_Mossy_Stones_Stone_03.uasset",
