@@ -214,6 +214,8 @@
 				"E:/DarkCarnival/DarkCarnival/Content/Textures/Props/T_FoodContainers_D.uasset",
 				"E:/DarkCarnival/DarkCarnival/Content/Textures/Props/T_FoodContainers_N.uasset",
 				"E:/DarkCarnival/DarkCarnival/Content/Materials/Props/M_FoodContainers.uasset",
+				"E:/DarkCarnival/DarkCarnival/Content/Blueprints/BP_TrashDrop.uasset",
+				"E:/DarkCarnival/DarkCarnival/Content/Blueprints/BP_TrashClickDrop.uasset",
 				"E:/DarkCarnival/DarkCarnival/Content/_GENERATED/gabri/Sphere_BB0A79AA.uasset",
 				"E:/DarkCarnival/DarkCarnival/Content/_GENERATED/gabri/Sphere_3961225F.uasset",
 				"C:/Users/Red/Documents/GitHub/DarkCarnival/DarkCarnival/Content/Maps/GabeMap.umap",
